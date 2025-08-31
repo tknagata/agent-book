@@ -116,7 +116,7 @@ CQLクエリ:`;
   .then(
     createStep({
       id: "create-development-tasks",
-      // Confluenceページ作成ツールのoutputSchemaをそのまま指定
+      // Confluenceページ取得ツールのoutputSchemaをそのまま指定
       inputSchema: confluenceGetPageTool.outputSchema,
       // GitHub Issues作成ツールのinputSchemaをそのまま指定
       outputSchema: githubCreateIssueTool.inputSchema,

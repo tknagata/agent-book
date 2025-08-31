@@ -74,7 +74,7 @@ export const confluenceSearchPagesTool = createTool({
       const pages = data.results.map((result: any) => ({
         id: result.content?.id,
         title: result.content?.title,
-        url: result.url ? `${CONFLUENCE_BASE_URL}/wiki${result.url}` : null,
+        url: result.url ? `${CONFLUENCE_BASE_URL}/wiki${result.url}` : undefined,
       }));
       return {pages, total: data.totalSize};
     } catch (error) {

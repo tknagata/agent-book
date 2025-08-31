@@ -23,7 +23,7 @@ export const WorkflowForm = ({
   return (
     // フォームを定義
     <form onSubmit={onSubmit} className="space-y-6">
-      {/*Confuence検索クエリ欄*/}
+      {/*Confluence検索クエリ欄*/}
       <div className="group">
         <label htmlFor="query"
                className="block text-sm font-semibold text-gray-700 mb-2 transition-colors group-hover:text-blue-600">
