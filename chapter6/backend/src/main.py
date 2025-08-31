@@ -1,6 +1,5 @@
 import asyncio
 from strands import Agent
-from strands_tools import shell
 from bedrock_agentcore.runtime import BedrockAgentCoreApp
 from .aws_master import aws_master, setup_aws_master
 from .api_master import api_master, setup_api_master
