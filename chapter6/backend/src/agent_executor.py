@@ -20,8 +20,9 @@ async def extract(queue, agent, event, state):
             if "toolUse" in start_data:
                 tool_use = start_data["toolUse"]
                 tool = tool_use.get("name", "unknown")
-                await send_event(queue, 
-                    f"「{agent}」がツール「{tool}」を実行中", "tool_use", tool
+                await send_event(
+                    queue, f"「{agent}」がツール「{tool}」を実行中",
+                    "tool_use", tool
                 )
         
         # テキスト増分を処理
