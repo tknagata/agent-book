@@ -5,7 +5,7 @@ load_dotenv()
 
 def create_code_name_guardrail():
     bedrock_client = boto3.client("bedrock")
-    # Bedrock Guardraidsを構築
+    # Bedrock Guardrailsを構築
     response = bedrock_client.create_guardrail(
         name="CodeNameGuardrail",
         description="Guardrail to block service code name",

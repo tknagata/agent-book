@@ -79,7 +79,7 @@ def check_tool_use(state: MessagesState) -> Command[Literal["tools"]]:
             # NGワードが見つからなかったとき
             # Commandクラスを使って、ツールノードに遷移する
             return Command(goto="tools")
-    # 利用ツールが"create_report"出ない場合は、そのままツールノードに遷移する
+    # 利用ツールが"create_report"でない場合は、そのままツールノードに遷移する
     return Command(goto="tools")
     
 
