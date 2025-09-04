@@ -8,7 +8,7 @@ load_dotenv()
 
 # ツールを定義
 @tool
-def get_aws_updates(service_name: str) -> str:
+def get_aws_updates(service_name: str) -> list:
     # AWS What's NewのRSSフィードをパース
     feed = feedparser.parse("https://aws.amazon.com/about-aws/whats-new/recent/feed/")    
     result = []
