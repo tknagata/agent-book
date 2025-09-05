@@ -23,6 +23,6 @@
     "@mastra/loggers": "0.10.9",
     "@mastra/memory": "0.14.2",
     "dotenv": "^17.2.0",
-    "mastra": "0.11.3-alpha.0"
+    "mastra": "0.11.3"
   }
 }
