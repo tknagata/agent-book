@@ -20,6 +20,4 @@ https://www.sbcr.jp/product/4815636609/
 
 ## エラー等でハンズオンが進められないときは
 
-[Issues](https://github.com/minorun365/agent-book/issues) より、テンプレートを使って問い合わせを投稿ください。
-
-著者陣がベストエフォートで解決のお手伝いをさせていただきます。
+[Issues](https://github.com/minorun365/agent-book/issues) より、テンプレートを使って問い合わせを投稿ください。著者陣がベストエフォートで解決のお手伝いをさせていただきます。
