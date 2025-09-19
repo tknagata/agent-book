@@ -29,14 +29,14 @@ model = prompt_template.config["model"]
 temperature = prompt_template.config["temperature"]
 
 langchain_prompt = ChatPromptTemplate(prompt_template.get_langchain_prompt())
-messagses = langchain_prompt.invoke({"city": "横浜"})
+messages = langchain_prompt.invoke({"city": "横浜"})
 
 # ReactAgentの実行
 agent = create_agent(model, temperature)
 
 langfuse_handler = CallbackHandler()
 response = agent.invoke(
-    messagses,
+    messages,
     config={"callbacks": [langfuse_handler]}
 )
 response["messages"][-1].pretty_print()
