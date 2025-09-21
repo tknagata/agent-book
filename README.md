@@ -7,10 +7,9 @@ https://www.sbcr.jp/product/4815636609/
 <img height="400" alt="書影" src="https://github.com/user-attachments/assets/48c43d46-6ecd-4661-a96d-b040102df2f1" />
 
 
-## お知らせ一覧
+## 新着のお知らせ（詳細は後述）
 
-
-- 【2025/9/18更新】第2章 Bedrockのモデルアクセス有効化手順の変更予定日が10/8へ延期されました（[リンク](https://github.com/minorun365/agent-book/edit/main/README.md#L30)）
+- 【2025/9/18更新】第2章 Bedrockのモデルアクセス有効化手順の変更予定日が10/8へ延期されました。
 
 
 ## サンプルコードの使い方
