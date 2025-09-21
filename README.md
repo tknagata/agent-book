@@ -4,7 +4,7 @@
 
 https://www.sbcr.jp/product/4815636609/
 
-<img height="400" alt="書影" src="https://github.com/user-attachments/assets/48c43d46-6ecd-4661-a96d-b040102df2f1" />
+<img height="400" alt="書影" src="https://www.sbcr.jp/wp-content/uploads/2025/07/AAP_AI%E3%82%A8%E3%83%BC%E3%82%B7%E3%82%99%E3%82%A7%E3%83%B3%E3%83%88%E9%96%8B%E7%99%BA%E9%81%8B%E7%94%A8%E5%85%A5%E9%96%80_D1-1-scaled.jpg" />
 
 
 ## 新着のお知らせ（詳細は後述）
