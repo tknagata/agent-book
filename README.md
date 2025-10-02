@@ -37,3 +37,4 @@ https://www.sbcr.jp/product/4815636609/
 - ニケちゃん [AIエージェントこれからやりたい人とすでにやってる人向けの書籍紹介（つまり全員）｜ニケちゃん](https://note.com/nike_cha_n/n/nc4c17567f5f0?sub_rt=share_pb)
 - おむろんさん [書籍「AIエージェント開発/運用入門」を献本いただきました！ - omuronの備忘録](https://omuron.hateblo.jp/entry/2025/10/01/000000)
 - からあげさん [AIエージェント関連書籍4冊を徹底比較 - karaage. [からあげ]](https://karaage.hatenadiary.jp/entry/2025/10/01/073000)
+- ふくちさん [書籍「AIエージェント開発/運用入門」のレビューへ参加させていただきました！](https://qiita.com/har1101/items/d070a6b8181f24ed6697)
