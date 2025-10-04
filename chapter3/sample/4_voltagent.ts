@@ -1,5 +1,5 @@
 import { VoltAgent, Agent, createTool } from "@voltagent/core";
-// import { VercelAIProvider } from "@voltagent/vercel-ai"; // 【10/4更新】VoltAgent V1では不要となりました。
+import { honoServer } from "@voltagent/server-hono";
 import { bedrock } from "@ai-sdk/amazon-bedrock";
 import { z } from "zod";
 
@@ -20,14 +20,12 @@ const addTool = createTool({
 const agent = new Agent({
     name: "計算エージェント",
     instructions: "ツールを使って足し算ができます。",
-    // llm: new VercelAIProvider(), // 【10/4更新】VoltAgent V1では不要となりました。
     model: bedrock("us.anthropic.claude-sonnet-4-20250514-v1:0"),
     tools: [addTool],
 });
 
 // VoltAgentインスタンスを作成
 new VoltAgent({
-    agents: {
-        agent,
-    },
+    agents: { agent },
+    server: honoServer(),
 });
