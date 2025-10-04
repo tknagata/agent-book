@@ -31,7 +31,7 @@ https://www.sbcr.jp/product/4815636609/
 
 ### 第3章
 
-- P.60： 9/16にVoltAgent V1がリリースされました。Agentクラスから `llm` オプションが削除されたことに加え、VoltAgentクラスでサーバーの組み込みが必要となったため、[サンプルコード](https://github.com/minorun365/agent-book/blob/main/chapter3/sample/4_voltagent.ts)を更新しています。（参考：[公式ドキュメント](https://voltagent.dev/docs/getting-started/migration-guide/)）
+- P.60： 9/16にVoltAgent V1がリリースされました。Agentクラスから `llm` オプションが削除されたことに加え、VoltAgentクラスでサーバーの組み込みが必要となったため、[サンプルコード](https://github.com/minorun365/agent-book/blob/main/chapter3/sample/4_voltagent.ts)を更新しています。気づいてくださった[chiaoi](https://x.com/_chiaoi)さん、ありがとうございます！（参考：[公式ドキュメント](https://voltagent.dev/docs/getting-started/migration-guide/)）
 
 
 ## 🥰 読者のみなさまのブログ紹介
