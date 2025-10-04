@@ -20,7 +20,7 @@ const addTool = createTool({
 const agent = new Agent({
     name: "計算エージェント",
     instructions: "ツールを使って足し算ができます。",
-    llm: new VercelAIProvider(),
+    // llm: new VercelAIProvider(), // 【10/4更新】VoltAgent V1では不要となりました。
     model: bedrock("us.anthropic.claude-sonnet-4-20250514-v1:0"),
     tools: [addTool],
 });
