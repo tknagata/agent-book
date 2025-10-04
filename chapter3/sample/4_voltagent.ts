@@ -1,5 +1,5 @@
 import { VoltAgent, Agent, createTool } from "@voltagent/core";
-import { VercelAIProvider } from "@voltagent/vercel-ai";
+// import { VercelAIProvider } from "@voltagent/vercel-ai"; // 【10/4更新】VoltAgent V1では不要となりました。
 import { bedrock } from "@ai-sdk/amazon-bedrock";
 import { z } from "zod";
 

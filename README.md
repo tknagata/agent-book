@@ -31,7 +31,7 @@ https://www.sbcr.jp/product/4815636609/
 
 ### 第3章
 
-- P.60： 9/16にVoltAgent V1がリリースされました。Agentクラスから `llm` オプションが削除され、AI SDKと直接統合されるようになったため、本書のサンプルコードも23行目をコメントアウトして利用ください。（参考：[公式ドキュメント](https://voltagent.dev/docs/getting-started/migration-guide/#remove-llm-provider-and-voltagentvercel-ai)）
+- P.60： 9/16にVoltAgent V1がリリースされました。Agentクラスから `llm` オプションが削除され、AI SDKと直接統合されるようになったため、本書のサンプルコードも2行目と23行目をコメントアウトして利用ください。（参考：[公式ドキュメント](https://voltagent.dev/docs/getting-started/migration-guide/#remove-llm-provider-and-voltagentvercel-ai)）
 
 
 ## 🥰 読者のみなさまのブログ紹介
