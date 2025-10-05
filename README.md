@@ -39,8 +39,9 @@ https://www.sbcr.jp/product/4815636609/
 素敵な感想・書評をどうもありがとうございます！！
 
 - 熊田さん [【書評】『AIエージェント開発/運用入門』これからAIエージェント開発を始めたいエンジニアへ](https://qiita.com/hedgehog051/items/ca64f9958addebc58cf9)
-- ニケちゃん [AIエージェントこれからやりたい人とすでにやってる人向けの書籍紹介（つまり全員）｜ニケちゃん](https://note.com/nike_cha_n/n/nc4c17567f5f0?sub_rt=share_pb)
+- ニケちゃん [AIエージェントこれからやりたい人とすでにやってる人向けの書籍紹介（つまり全員）｜ニケちゃん](https://note.com/nike_cha_n/n/nc4c17567f5f0)
 - おむろんさん1 [書籍「AIエージェント開発/運用入門」を献本いただきました！ - omuronの備忘録](https://omuron.hateblo.jp/entry/2025/10/01/000000)
 - おむろんさん2 [書籍「AIエージェント開発/運用入門」を献本いただきました！ - omuronの備忘録](https://omuron.hateblo.jp/entry/2025/10/01/000000)
 - からあげさん [AIエージェント関連書籍4冊を徹底比較 - karaage. [からあげ]](https://karaage.hatenadiary.jp/entry/2025/10/01/073000)
 - ふくちさん [書籍「AIエージェント開発/運用入門」のレビューへ参加させていただきました！](https://qiita.com/har1101/items/d070a6b8181f24ed6697)
+- たけさん [書籍「AIエージェント開発/運用入門」をやってみる。その１｜のんびりと](https://note.com/bnctake/n/naf36facb7287)
