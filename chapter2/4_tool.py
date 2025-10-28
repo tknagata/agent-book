@@ -11,7 +11,8 @@ load_dotenv()
 client = boto3.client("bedrock-runtime")
 
 input = "2025年7月の祝日はいつ？"
-llm = "us.anthropic.claude-3-7-sonnet-20250219-v1:0"
+# llm = "us.anthropic.claude-3-7-sonnet-20250219-v1:0"
+llm = "arn:aws:bedrock:us-west-2:201189646499:inference-profile/global.anthropic.claude-sonnet-4-20250514-v1:0"
 
 # 祝日を取得する関数
 def get_japanese_holidays(year):
